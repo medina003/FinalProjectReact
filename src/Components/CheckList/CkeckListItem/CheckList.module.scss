@@ -1,0 +1,16 @@
+.button{ 
+    padding: 8px 16px;
+    border:1px solid transparent;
+    text-decoration: none;
+    background-color: gray;
+    color: white;
+    border-radius: 10px;
+    margin: 0px 10px;
+    &:hover{
+        cursor: pointer;
+    }
+
+}
+input{
+    appearance: checkbox;
+}
